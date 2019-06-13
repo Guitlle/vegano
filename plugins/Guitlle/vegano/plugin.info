@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/Guitlle/vegano",
+    "description": "Vega in for tiddlywiki.",
+    "author": "Guillermo",
+    "version": "0.1.0",
+    "core-version": ">=5.0.0",
+    "plugin-type": "plugin",
+    "list": "readme"
+}
